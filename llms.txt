@@ -1,0 +1,46 @@
+# Geotechnicalengineering1 — Wollongong
+
+> Geotechnical engineering services in Wollongong, Australia.
+
+## Services
+- [Anchors](https://wollongong.geotechnicalengineering1.co/anchors/)
+- [Atterberg Limits](https://wollongong.geotechnicalengineering1.co/atterberg-limits/)
+- [Cbr Road](https://wollongong.geotechnicalengineering1.co/cbr-road/)
+- [Deep Excavations](https://wollongong.geotechnicalengineering1.co/deep-excavations/)
+- [Excavation Monitoring](https://wollongong.geotechnicalengineering1.co/excavation-monitoring/)
+- [Excavations](https://wollongong.geotechnicalengineering1.co/excavations/)
+- [Foundations](https://wollongong.geotechnicalengineering1.co/foundations/)
+- [Geophysics](https://wollongong.geotechnicalengineering1.co/geophysics/)
+- [Grain Size](https://wollongong.geotechnicalengineering1.co/grain-size/)
+- [Ground Improvement](https://wollongong.geotechnicalengineering1.co/ground-improvement/)
+- [Grouting](https://wollongong.geotechnicalengineering1.co/grouting/)
+- [In Situ Permeability](https://wollongong.geotechnicalengineering1.co/in-situ-permeability/)
+- [Investigation](https://wollongong.geotechnicalengineering1.co/investigation/)
+- [Lab In Situ](https://wollongong.geotechnicalengineering1.co/lab-in-situ/)
+- [Laboratory](https://wollongong.geotechnicalengineering1.co/laboratory/)
+- [Liquefaction](https://wollongong.geotechnicalengineering1.co/liquefaction/)
+- [Masw](https://wollongong.geotechnicalengineering1.co/masw/)
+- [Mat Foundations](https://wollongong.geotechnicalengineering1.co/mat-foundations/)
+- [Piles](https://wollongong.geotechnicalengineering1.co/piles/)
+- [Plate Load Test](https://wollongong.geotechnicalengineering1.co/plate-load-test/)
+- [Retaining Walls](https://wollongong.geotechnicalengineering1.co/retaining-walls/)
+- [Rigid Pavement](https://wollongong.geotechnicalengineering1.co/rigid-pavement/)
+- [Road Geotechnics](https://wollongong.geotechnicalengineering1.co/road-geotechnics/)
+- [Sand Cone Density](https://wollongong.geotechnicalengineering1.co/sand-cone-density/)
+- [Seismic](https://wollongong.geotechnicalengineering1.co/seismic/)
+- [Seismic Microzonation](https://wollongong.geotechnicalengineering1.co/seismic-microzonation/)
+- [Seismic Refraction](https://wollongong.geotechnicalengineering1.co/seismic-refraction/)
+- [Slope Stability](https://wollongong.geotechnicalengineering1.co/slope-stability/)
+- [Slopes](https://wollongong.geotechnicalengineering1.co/slopes/)
+- [Soft Ground Tunnels](https://wollongong.geotechnicalengineering1.co/soft-ground-tunnels/)
+- [Spt Drilling](https://wollongong.geotechnicalengineering1.co/spt-drilling/)
+- [Stone Columns](https://wollongong.geotechnicalengineering1.co/stone-columns/)
+- [Triaxial](https://wollongong.geotechnicalengineering1.co/triaxial/)
+- [Vibrocompaction](https://wollongong.geotechnicalengineering1.co/vibrocompaction/)
+
+## Contact
+- Website: https://wollongong.geotechnicalengineering1.co/
+
+## About
+This site provides geotechnical engineering services in Wollongong, Australia.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
